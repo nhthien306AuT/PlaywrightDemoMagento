@@ -12,6 +12,5 @@
 # Guide
 - UI mode: npx playwright test --ui
 - Headed mode: npx playwright test --headed
-- Run test with specific title: npx playwright test -g "testTitle"
-- Run test with specific title(headed): npx playwright test -g "testTitle" --headed
+
 
